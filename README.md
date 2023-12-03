@@ -5,3 +5,4 @@
 
 ## File and folder scripts
 ### categorizePhotos
+### receipts
